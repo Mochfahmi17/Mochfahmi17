@@ -10,7 +10,7 @@ In my workflow, I use Git, GitHub, Vercel, Postman, and Redux. I always strive t
 
 ### Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,php,bootstrap,tailwind,react,next,laravel&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,php,bootstrap,tailwind,react,next,laravel&theme=dark&perline=5)]
 
 ### Connect With Me:
 
