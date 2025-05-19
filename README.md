@@ -17,7 +17,7 @@ Currently, I am open to freelance projects or remote work opportunities, especia
 
 ## Skills:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,php,bootstrap,tailwind,nodejs,express,react,next,laravel&theme=dark&perline=6)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,php,sass,bootstrap,tailwind,nodejs,express,react,mongodb,mysql,postgresql,next,laravel&theme=dark&perline=6)
 
 ## Connect With Me:
 
